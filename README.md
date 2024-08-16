@@ -1,4 +1,4 @@
-Link to Project Description Website: https://sites.google.com/umass.edu/automated-mat-hoist/home?authuser=1
+Link to Project Description Website: [Mat-Hoisting Website](https://sites.google.com/umass.edu/automated-mat-hoist/home?authuser=1)
 
 # Getting Started with Create React App
 
@@ -70,3 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Demo Video
+https://drive.google.com/file/d/12yQFwbTTKQPqTRPK58_VrRkMRXheFa70/view
+
